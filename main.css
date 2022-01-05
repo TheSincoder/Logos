@@ -15,28 +15,28 @@ body, html{
 }
 
 .apple{
-    height: 400px;
-    width: 400px;
+    height: 100px;
+    width: 100px;
     object-fit:cover;
-    padding-left: 180px;
+    padding-left: 45px;
 }
 
 .adidas{
-    height: 400px;
-    width: 600px;
+    height: 100px;
+    width: 150px;
     object-fit:cover;
 }
 
 .amazon{
-    height: 400px;
-    width: 800px;
+    height: 100px;
+    width: 200px;
     object-fit:cover;
-    padding-top: 40px;
+    padding-top: 10px;
 }
 
 .beats{
-    height: 500px;
-    width: 500px;
+    height: 125px;
+    width: 125px;
     object-fit:cover;
-    padding-left: 50px;
+    padding-left: 12.5px;
 }
